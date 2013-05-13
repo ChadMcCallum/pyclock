@@ -3,8 +3,8 @@ pyclock
 
 Clock app in python / pygame, originally developed for the Raspberry Pi
 
-http://rtigger.com/images/posts/pi-1.jpg
-http://rtigger.com/images/posts/pi-2.jpg
+![Screen1](http://rtigger.com/images/posts/pi-1.jpg)
+![Screen2](http://rtigger.com/images/posts/pi-2.jpg)
 
 I had a raspberry pi sitting around my house, as I'm sure many do, and I thought to myself 
 "Boy I sure could use a $100 desk clock!"  So I went on ebay and bought a 7" touchscreen LCD that accepts 
