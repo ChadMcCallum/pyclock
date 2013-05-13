@@ -23,6 +23,8 @@ If you didn't notice, it's designed after Windows 8's lock screen, using the sam
 I tried to be all multithready so that the downloading and processing of each image doesn't block the main 
 drawing thread and introduce slowdown.
 
+This is my first actual attempt at Python, so be nice :P
+
 ## Future Enhancements
 - Notification icons (again, like Windows 8) to indicate if you have unread mail / tweets / other notifications.
 - More of a "slide-up-tile" transition
