@@ -15,7 +15,7 @@ class imgthread(threading.Thread):
     
     def run(self):
         while 1:
-            api_key = '0d93e6db39e6d234795c7844ced22d44'
+            api_key = 'GetYourOwnKey!'
             url = "http://api.flickr.com/services/rest/?method=flickr.photos.getRecent&per_page=10&api_key=" + api_key
             result = urllib2.urlopen(url)
             tree = ET.fromstring(result.read())
