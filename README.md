@@ -8,7 +8,7 @@ Clock app in python / pygame, originally developed for the Raspberry Pi
 
 I had a raspberry pi sitting around my house, as I'm sure many do, and I thought to myself 
 "Boy I sure could use a $100 desk clock!"  So I went on ebay and bought a 7" touchscreen LCD that accepts 
-HDMI input, setup AdaFruit's WebIDE on my raspberry pi, and started hacking.  Here's the result so far:
+HDMI input, setup AdaFruit's WebIDE on my raspberry pi, and started hacking.
 
 I'm using the sample code from adafruit's pygame tutorial to open a pygame screen instance, 
 and flickr's API to download a random public image every 30 seconds or so.  
