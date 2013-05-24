@@ -25,12 +25,12 @@ drawing thread and introduce slowdown.
 
 This is my first actual attempt at Python, so be nice :P
 
-## Classes
+## Files
 
-clock.py - the "main" class, handles redrawing of the screen
-img.py - DTO that wraps an image downloaded from Flickr
-imgthread.py - the process for downloading and resizing an image, run on a different thread
-segoeui.ttf - font used to display date and time
+- clock.py - the "main" class, handles redrawing of the screen
+- img.py - DTO that wraps an image downloaded from Flickr
+- imgthread.py - the process for downloading and resizing an image, run on a different thread
+- segoeui.ttf - font used to display date and time
 
 ## Future Enhancements
 - Notification icons (again, like Windows 8) to indicate if you have unread mail / tweets / other notifications.
